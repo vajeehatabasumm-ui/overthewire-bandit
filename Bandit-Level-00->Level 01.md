@@ -37,15 +37,36 @@ By listing the available files and reading the contents of the `readme` file, th
 
 ### 🧪 Commands Used
 
-ls
-cat readme
+- `ls`
+- `cat readme`
 
 ---
 ### 📸 Screenshot Evidence
-![Bandit Level 00 Screenshot](screenshots/level00.png)
+
+
+<img width="961" height="274" alt="level00 png" src="https://github.com/user-attachments/assets/ca4c9b62-9c52-45af-a282-76161c40449e" />
 
 ---
 
 ### 🔑 Next Level Password
 ```text
 ZjlJTmM6FvvyRnrB2rfNWOZOTa6ip5If
+```
+---
+
+### 🧠 Explanation
+- The `ls` command lists available files  
+- The `readme` file contains the password  
+- `cat readme` displays the password on the screen  
+
+---
+
+### 🔐 Concept Learned
+This level introduces basic Linux file access.  
+It shows how sensitive data can be stored in simple text files.
+
+---
+
+### 🛡️ Security Insight
+Passwords stored in plain text files are highly insecure.  
+Proper access controls and encryption should always be used.
